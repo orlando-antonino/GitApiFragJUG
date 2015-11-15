@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="git_server">https://api.github.com</string>
+
+
+    <!--OTHERS-->
+    <string  name="per_page">10</string>
+
+</resources>

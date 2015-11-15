@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitApiFrag</string>
+    <string name="title_repo_detail">Repo Detail</string>
+
+
+    <string name="request_erro">request failed&#8230; Please check your request.</string>
+    <string name="open_repos_string">Do you want open Repository or Owner Url?</string>
+    <string name="open_repos_url">Repository</string>
+    <string name="open_owner_url">Owner</string>
+    <string name="title_activity_history">HistoryActivity</string>
+
+    <!--HISTORY ACTIVITY-->
+    <string name="repo_name">repo_name</string>
+
+    <!--MENU-->
+    <string name="retry">retry</string>
+</resources>
